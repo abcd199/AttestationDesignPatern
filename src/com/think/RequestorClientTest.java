@@ -1,4 +1,4 @@
-package com.mosambee;
+package com.think;
 
 import org.junit.jupiter.api.Test;
 

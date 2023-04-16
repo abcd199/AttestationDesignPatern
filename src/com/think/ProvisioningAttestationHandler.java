@@ -1,4 +1,4 @@
-package com.mosambee;
+package com.think;
 
 public class ProvisioningAttestationHandler extends AbstractAttestationHandler {
 
