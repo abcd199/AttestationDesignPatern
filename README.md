@@ -1,4 +1,4 @@
 # AttestationDesignPatern
 
 
-## This project is to lern Chain of responsibility design pattern
+### This project is for lerning Chain of responsibility design pattern
